@@ -112,3 +112,9 @@ h4 {
 .number {
   font-family: "Short Stack", sans-serif;
 }
+
+@media only screen and (max-width: 1024px) {
+  h1 {
+    font-size: 8rem;
+  }
+}
